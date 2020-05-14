@@ -1,3 +1,3 @@
-# maven-project
+# CI CD pipe line prac
 
-Simple Maven Project
+CI&CD pipeline using Git, Maven, Kenkins, Docker, Ansible, Kubernetes
